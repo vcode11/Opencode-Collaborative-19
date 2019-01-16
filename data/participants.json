@@ -242,6 +242,16 @@
 			"twitter" : "",
 			"referral" : ""
 		},
+	 {
+			"name" : " Vishal Mishra",
+			"imageurl" : "",
+			"about" : "Hii I am from IIITL and just got started with python progamming",
+			"college" : "IIIT Lucknow",
+			"facebook" : "https://www.facebook.com/profile.php?id=100026658502249",
+			"github" : "https://github.com/vcode11",
+			"twitter" : "",
+			"referral" : ""
+	},
     	{
             "name"     : "Manthan Surkar",
             "imageurl" : "https://en.gravatar.com/userimage/59390444/d267abe902e7f507e425febe985b3229.png?size=400",
@@ -788,18 +798,19 @@
 			"github"    : "https://github.com/BinduVerma123",
 			"twitter"   : "",
 			"referral"  : ""
-      },
+
+
+		},
 	    {
-          "name" : "Nikhilesh Kumar",
-          "imageurl" : "assets/img/participants/DSC_0113-02.jpeg",
-          "about" : "",
-          "college" : "IIIT Allahabad",
-          "facebook" : "https://www.facebook.com/nikhilesh.kr23",
-          "github" : "https://github.com/gobblerXD",
-          "twitter" : "",
-          "referral" : ""
-      },
-      {
+	        "name"      : "Nikhil",
+			"imageur1"  : "assets/img/participants/nikhil.jpg",
+			"about"	    : "",
+			"college"   : "IIIT Allahabad",
+			"github"    : "https://github.com/nikolai6303",
+			"twitter"   : "",
+			"referral"  : ""
+	    },
+            {
 
                          "name": "Abhinav2023",
                          "imageurl": "assets/img/participants/Abhinav2023.jpg",
@@ -820,16 +831,6 @@
 			"twitter"   : "",
 			"referral"  : ""
 
-		},
-	     {
-            "name": "Jishan Singh",
-            "imageurl": "",
-            "about": "",
-            "college": "IIIT, Allahabad",
-            "facebook": "",
-            "github": "https://github.com/jishansingh",
-            "twitter": "",
-            "referral": "mail"
-}
+		}
     ]
 }
